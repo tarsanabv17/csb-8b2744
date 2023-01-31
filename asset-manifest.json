@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://tarsanabv17.github.io/csb-8b2744/static/css/main.aaa85f57.chunk.css",
+    "main.js": "https://tarsanabv17.github.io/csb-8b2744/static/js/main.6c79414b.chunk.js",
+    "main.js.map": "https://tarsanabv17.github.io/csb-8b2744/static/js/main.6c79414b.chunk.js.map",
+    "runtime-main.js": "https://tarsanabv17.github.io/csb-8b2744/static/js/runtime-main.760ffc81.js",
+    "runtime-main.js.map": "https://tarsanabv17.github.io/csb-8b2744/static/js/runtime-main.760ffc81.js.map",
+    "static/js/2.5bc73e90.chunk.js": "https://tarsanabv17.github.io/csb-8b2744/static/js/2.5bc73e90.chunk.js",
+    "static/js/2.5bc73e90.chunk.js.map": "https://tarsanabv17.github.io/csb-8b2744/static/js/2.5bc73e90.chunk.js.map",
+    "index.html": "https://tarsanabv17.github.io/csb-8b2744/index.html",
+    "static/css/main.aaa85f57.chunk.css.map": "https://tarsanabv17.github.io/csb-8b2744/static/css/main.aaa85f57.chunk.css.map",
+    "static/js/2.5bc73e90.chunk.js.LICENSE.txt": "https://tarsanabv17.github.io/csb-8b2744/static/js/2.5bc73e90.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.760ffc81.js",
+    "static/js/2.5bc73e90.chunk.js",
+    "static/css/main.aaa85f57.chunk.css",
+    "static/js/main.6c79414b.chunk.js"
+  ]
+}
